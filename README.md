@@ -21,13 +21,13 @@ The labels of each face image is embedded in the file name, formated like [age]_
 # Dataset labels (APPA-REAL)
 The label of each face image is only age, which can be found by downloading the dataset and opening labels.csv
 # Results from training and basic EDA
-![](images/eda (1).png)
-![](images/eda (2).png)
-![](images/eda (3).png)
-![](images/eda (4).png)
-![](images/eda (5).png)
-![](images/eda (6).png)
-![](images/training (1).png)
-![](images/training (1).png)
+![eda1](eda_training_images/eda (1).png)
+![eda2](eda_training_images/eda (2).png)
+![eda3](eda_training_images/eda (3).png)
+![eda4](eda_training_images/eda (4).png)
+![eda5](eda_training_images/eda (5).png)
+![eda6](eda_training_images/eda (6).png)
+![train1](eda_training_images/training (1).png)
+![train2](eda_training_images/training (2).png)
 
 
