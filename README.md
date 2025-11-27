@@ -3,8 +3,12 @@ This project is a prototype self-checkout system that can scan items and automat
 If the person looks 25 or older, the purchase continues normally.
 If they look younger than 25, the system asks for an admin to verify the ID.
 The interface includes item scanning (via QR codes), a live camera window for age checks, and an admin approval screen. It shows how age verification could be made quicker and more convenient in self-checkout machines.
-# Backend
+# The main things
 Behind the scenes, the system uses a model trained on face-image datasets to estimate a person’s age. We tested two versions: a basic CNN and a deeper ResNet-50 model. Both take a face image, analyze its features, and output a predicted age, but the ResNet model performed better and was used in the final prototype.
+# How to use?
+The required libraries are provided in requirements.txt
+Download our best model checkpoint final_resnet50_model.ckpt from releases and run gui_savitarna.py.
+The training part of the model, architecture itself is provided in a notebook *resnet_training_notebook.ipynb*
 
 The training data was created by combining the UTKFace and APPA-REAL datasets, which include thousands of labeled face photos. 
 # DATASET LINK FOR DOWNLOAD
