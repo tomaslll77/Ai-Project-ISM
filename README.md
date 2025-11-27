@@ -21,13 +21,13 @@ The labels of each face image is embedded in the file name, formated like [age]_
 # Dataset labels (APPA-REAL)
 The label of each face image is only age, which can be found by downloading the dataset and opening labels.csv
 # Results from training and basic EDA
-![eda1](eda_training_images/eda (1).png)
-![eda2](eda_training_images/eda (2).png)
-![eda3](eda_training_images/eda (3).png)
-![eda4](eda_training_images/eda (4).png)
-![eda5](eda_training_images/eda (5).png)
-![eda6](eda_training_images/eda (6).png)
-![train1](eda_training_images/training (1).png)
-![train2](eda_training_images/training (2).png)
+![eda1](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(1).png)
+![eda2](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(2).png)
+![eda3](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(3).png)
+![eda4](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(4).png)
+![eda5](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(5).png)
+![eda6](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/eda%20(6).png)
+![train1](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/training%20(1).png)
+![train2](https://github.com/tomaslll77/Ai-Project-ISM/blob/e0f692f149c2f7a8ad8903b04bea47d7dd1a7695/eda_training_images/training%20(2).png)
 
 
