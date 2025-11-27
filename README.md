@@ -30,5 +30,4 @@ The label of each face image is only age, which can be found by downloading the 
 ![](images/training (1).png)
 ![](images/training (1).png)
 
-Nusipullinkit repo is githubo tomo, tada isikelkit i folderi dataseta, kad path nereiketu keitinet atskirai visiem 
 
