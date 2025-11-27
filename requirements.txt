@@ -1,0 +1,17 @@
+kagglehub
+torch
+torchvision
+torchaudio
+pandas
+numpy
+matplotlib
+opencv-python
+Pillow
+pytorch-lightning
+torchsummary
+PyQt6
+os
+sys
+subprocess
+time
+random
